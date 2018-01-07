@@ -1,0 +1,11 @@
+main: zigafide.simplefireworks.main_class
+name: simplefireworks
+version: 1.0
+author: me
+description: An Example plugin
+commands:
+  rfw:
+    description: Spawns a random firework
+    usage: 
+    permission: zigafide.rfw
+    permission-message: You don't have the zigafide.rfw perm.
